@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 23px;
+  padding-right: 23px;
+}
+.web-logo {
+  height: 38px;
+  width: 140px;
+}
+.nav-links-container {
+  list-style-type: none;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+.nav-link {
+  text-decoration: none;
+  color: #475569;
+}
+.login {
+  background-color: #0b69ff;
+  border: none;
+  color: #fff;
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 5px;
+}

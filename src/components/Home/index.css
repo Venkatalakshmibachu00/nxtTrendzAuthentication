@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.home-container {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  font-family: Roboto;
+}
+.title {
+  color: #1e293b;
+  font-size: 50px;
+  font-weight: 700;
+}
+.description {
+  color: #64748b;
+  font-size: 15px;
+}
+.btn {
+  background-color: #0b69ff;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+.home-image {
+  height: 480px;
+  width: 500px;
+}
